@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 8L20 30H0L10 8Z" fill="#0066CC"/>
+  <path d="M25 8H40V30H25V8Z" fill="#0066CC"/>
+  <path d="M45 8H65V30H45V8Z" fill="#0066CC" fill-opacity="0.7"/>
+  <text x="72" y="24" font-family="Arial" font-size="16" font-weight="bold" fill="#333333">CAD</text>
+</svg>
